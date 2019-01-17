@@ -4,7 +4,7 @@
 
 ## A curated list of health resources
 
-A community-driven list of useful health resources. See CONTRIBUTING.md for contribution info. Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+A community-driven list of useful health resources. See CONTRIBUTING.md for contribution info. Other awesome lists can be found in [Sindresorhus' awesome list](https://github.com/sindresorhus/awesome) or [bayandin's awesome-awesomeness list](https://github.com/bayandin/awesome-awesomeness).
 
  > **DISCLAIMER**: *This repository is not a forum for the exchange of medical information, advice or the promotion of self-destructive behavior (e.g., eating disorders, suicide). You should not look to the repository for information or advice on such topics. Instead, we recommend that you talk in person with a trusted adult that you know or a medical professional. THE INFORMATION ON THIS REPOSITORY IS PROVIDED FOR EDUCATIONAL AND ENTERTAINMENT PURPOSES ONLY, AND IS IN NO WAY INTENDED TO DIAGNOSE, CURE, OR TREAT ANY MEDICAL OR OTHER CONDITION. ALWAYS SEEK THE ADVICE OF YOUR PHYSICIAN OR OTHER QUALIFIED HEALTH PROVIDER PRIOR TO STARTING ANY NEW DIET AND ASK YOUR DOCTOR ANY QUESTIONS YOU MAY HAVE REGARDING A MEDICAL CONDITION. IN ADDITION TO ALL OTHER LIMITATIONS AND DISCLAIMERS IN THIS AGREEMENT, SERVICE PROVIDER AND ITS THIRD PARTY PROVIDERS DISCLAIM ANY LIABILITY OR LOSS IN CONNECTION WITH THE CONTENT PROVIDED ON THIS WEBSITE.*
 
