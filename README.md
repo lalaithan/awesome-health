@@ -20,9 +20,8 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 ## Anatomy - Understanding of Human Function
 
 - [Zygotebody](http://zygotebody.com/) - Zygote Body, formerly Google Body, is a web application that renders manipulable 3D anatomical models of the human body
-- [Biodigital](https://human.biodigital.com/index.html) - Similar to Zygotebody; all diseases are included
+- [Biodigital](https://human.biodigital.com/index.html) - Sign-in required; similar to Zygotebody; diseases are included
 - [Wiki](http://en.wikipedia.org/wiki/Human_body) - Wikipedia entry for human body
-- [BMI](http://blog.bodylabs.com/2015/01/29/visualizing-bmis-blind-spots/) - BMI Internals
 
 ## Food & Nutrition
 
