@@ -1,5 +1,7 @@
 # Awesome Health
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 ## A curated list of health resources
 
 A community-driven list of useful health resources. Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
@@ -8,7 +10,7 @@ A community-driven list of useful health resources. Other amazingly awesome list
 
 - [Anatomy](#anatomy)
 - [Food & Nutrition](#food)
-- [Exercise](#exercise) 
+- [Exercise](#exercise)
 - [Health Organizations](#health-organizations)
 - [Not Feeling Well](#not-feeling-well)
 - [Home Remedies](#home-remedies)
