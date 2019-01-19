@@ -11,9 +11,10 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 - [Anatomy](#anatomy)
 - [Food & Nutrition](#food)
 - [Exercise](#exercise)
-- [Health Organizations](#health-organizations)
 - [Not Feeling Well](#not-feeling-well)
-
+- [Specific Diets](#specific-diets)
+- [Health Organizations](#health-organizations)
+  
 ### Anatomy
 
 #### Understanding of Human Function
@@ -29,13 +30,6 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 
 ### Exercise
 
-### Health Organizations
-
-- [World Health Organization](http://www.who.int/en/) - The United Nations’ health agency, committed to achieve better health for everyone, everywhere.
-- [US National Library of Medicine](http://www.nlm.nih.gov/) - The National Library of Medicine, on the campus of the National Institutes of Health in the USA, is the world’s largest biomedical library with a vast print collection and produces electronic information resources on a wide range of topics. Also supports and conducts research, development, and training in biomedical informatics and health information technology. In addition, the Library coordinates a 6,500-member National Network of Libraries of Medicine that promotes and provides access to health information in communities across the United States.
-- [American Cancer Society](http://www.cancer.org/) - A US community-based voluntary health organization dedicated to eliminating cancer as a major health problem. Website offers info on cancer, prevention, treatment, patient support, research, and ways to get involved.
-- [American Diabetes Association](http://www.diabetes.org/) - A US-based nonprofit that seeks to educate the public about diabetes and to help those affected by it by funding research to manage, cure and prevent diabetes.
-
 ### Not Feeling Well
 
 - [Heart Palpitations in a Healthy Heart](http://www.heartmdinstitute.com/126-hmd-root/hmd-articles/494-worried-about-heart-palpitations#!kmt-start=10) - Explains what causes & how to lessen palpitations in a healthy heart.
@@ -44,3 +38,10 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 
 - [Diet Recommendtions for Liver Problems](http://www.nlm.nih.gov/medlineplus/ency/article/002441.htm) - An adjusted diet will help the liver function and protect it from working too hard.
 - [Dash Diet](https://www.kidney.org/atoz/content/Dash_Diet) - Dietary Approaches to Stop Hypertension diet information, tips, and recipes. The DASH diet is a recognized treatment for hypertension, heart disease, and kidney disease.
+
+### Health Organizations
+
+- [World Health Organization](http://www.who.int/en/) - The United Nations’ health agency, committed to achieve better health for everyone, everywhere.
+- [US National Library of Medicine](http://www.nlm.nih.gov/) - The National Library of Medicine, on the campus of the National Institutes of Health in the USA, is the world’s largest biomedical library with a vast print collection and produces electronic information resources on a wide range of topics. Also supports and conducts research, development, and training in biomedical informatics and health information technology. In addition, the Library coordinates a 6,500-member National Network of Libraries of Medicine that promotes and provides access to health information in communities across the United States.
+- [American Cancer Society](http://www.cancer.org/) - A US community-based voluntary health organization dedicated to eliminating cancer as a major health problem. Website offers info on cancer, prevention, treatment, patient support, research, and ways to get involved.
+- [American Diabetes Association](http://www.diabetes.org/) - A US-based nonprofit that seeks to educate the public about diabetes and to help those affected by it by funding research to manage, cure and prevent diabetes.
