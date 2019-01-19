@@ -33,11 +33,17 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 
 ### Exercise
 
+- [DAREBEE](https://darebee.com/) - A free independent global fitness resource based on researched and tested info. Website includes exercise programs, individual workouts, challenges, running info, videos, themed weeks/events, and a community to stay accountable and motivated.
+- [100 Places](https://youtu.be/75nQy1ICSVc) - Video playlist demonstrating different places/objects to do pull-ups and dips.
+- [Common Mistakes in Yoga](https://www.yogabycandace.com/common-mistakes-in-yoga-poses/) - Series by [YogaByCandace blog](https://www.yogabycandace.com/) illustrating and explaining common mistakes in popular yoga poses.
+- [Mobility Myths](https://www.youtube.com/playlist?list=PL1rSl6Pd49IkoHoX5QCEJe0MFNhWZ6K7c) - Video playlist where Dr. Quinn Henoch discusses causes and corrections for common mobility misconceptions.
+- [Exercise Safety Tips for the Warm Weather](https://www.atipt.com/blog/exercise-safety-tips-for-the-warm-weather) - Article by ATI Physical Therapy going over safety tips to keep in mind when exercising in the heat, plus symptoms of heat illness.
+
 ### Mental Health
 
 - [Mental Health Hackers](https://mentalhealthhackers.org) - A nonprofit organization striving to reach out to other hackers in the community to improve our mental health and learn to help our family and friends.
 
-### Not Feeling Well?
+### Not Feeling Well
 
 - [Heart Palpitations in a Healthy Heart](http://www.heartmdinstitute.com/126-hmd-root/hmd-articles/494-worried-about-heart-palpitations#!kmt-start=10) - Explains what causes & how to lessen palpitations in a healthy heart.
 
