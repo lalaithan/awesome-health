@@ -1,6 +1,4 @@
-# Awesome Health
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Health [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## A curated list of health resources
 
@@ -15,7 +13,6 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 - [Exercise](#exercise)
 - [Health Organizations](#health-organizations)
 - [Not Feeling Well](#not-feeling-well)
-- [Home Remedies](#home-remedies)
 
 ### Anatomy
 
