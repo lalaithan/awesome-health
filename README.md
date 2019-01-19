@@ -33,6 +33,8 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 
 ### Mental Health
 
+- [Mental Health Hackers](https://mentalhealthhackers.org) - A nonprofit organization striving to reach out to other hackers in the community to improve our mental health and learn to help our family and friends.
+
 ### Not Feeling Well
 
 - [Heart Palpitations in a Healthy Heart](http://www.heartmdinstitute.com/126-hmd-root/hmd-articles/494-worried-about-heart-palpitations#!kmt-start=10) - Explains what causes & how to lessen palpitations in a healthy heart.
