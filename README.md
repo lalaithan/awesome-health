@@ -11,6 +11,7 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 - [Anatomy](#anatomy)
 - [Food & Nutrition](#food)
 - [Exercise](#exercise)
+- [Mental Health](#mental-health)
 - [Not Feeling Well](#not-feeling-well)
 - [Specific Diets](#specific-diets)
 - [Health Organizations](#health-organizations)
@@ -29,6 +30,8 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 - [Choose MyPlate](http://www.choosemyplate.gov/) - MyPlate is the "new food pyramid" from the USDA to help you find a healthy eating style that meets your needs and build it throughout your lifetime.
 
 ### Exercise
+
+### Mental Health
 
 ### Not Feeling Well
 
