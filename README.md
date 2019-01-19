@@ -12,7 +12,7 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 - [Food & Nutrition](#food)
 - [Exercise](#exercise)
 - [Mental Health](#mental-health)
-- [Not Feeling Well](#not-feeling-well)
+- [Not Feeling Well?](#not-feeling-well)
 - [Specific Diets](#specific-diets)
 - [Health Organizations](#health-organizations)
   
@@ -28,6 +28,8 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 - [Tellspecopedia](http://www.tellspecopedia.com/) - A dynamic, up-to-date consumer resource for objective, evidence-based information on thousands of global food ingredients and their impact on health.
 - [Harvard Nutrition Source](http://www.hsph.harvard.edu/nutritionsource/) - The Nutrition Source is a comprehensive nutrition information source, providing science-based guidance for healthy living. Based at the Harvard Dept. of Nutrition.
 - [Choose MyPlate](http://www.choosemyplate.gov/) - MyPlate is the "new food pyramid" from the USDA to help you find a healthy eating style that meets your needs and build it throughout your lifetime.
+- [Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE) Calculator](https://www.sailrabbit.com/bmr/) - Developed with the goal of providing solid BMR/TDEE values for a wider range of body types and lifestyles.
+- [MyFitnessPal](https://www.myfitnesspal.com/) - Website & app for keeping track of the food you eat and the activity you do.
 
 ### Exercise
 
@@ -35,7 +37,7 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 
 - [Mental Health Hackers](https://mentalhealthhackers.org) - A nonprofit organization striving to reach out to other hackers in the community to improve our mental health and learn to help our family and friends.
 
-### Not Feeling Well
+### Not Feeling Well?
 
 - [Heart Palpitations in a Healthy Heart](http://www.heartmdinstitute.com/126-hmd-root/hmd-articles/494-worried-about-heart-palpitations#!kmt-start=10) - Explains what causes & how to lessen palpitations in a healthy heart.
 
