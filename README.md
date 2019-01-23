@@ -59,6 +59,7 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 
 - [Diet Recommendtions for Liver Problems](http://www.nlm.nih.gov/medlineplus/ency/article/002441.htm) - An adjusted diet will help the liver function and protect it from working too hard.
 - [Dash Diet](https://www.kidney.org/atoz/content/Dash_Diet) - Dietary Approaches to Stop Hypertension diet information, tips, and recipes. The DASH diet is a recognized treatment for hypertension, heart disease, and kidney disease.
+- [Low FODMAP Diet](https://www.monashfodmap.com/ibs-central/i-have-ibs/starting-the-low-fodmap-diet/) - Monash University's guide to the low FODMAP diet for gastrointestinal relief.
 
 ### Health Organizations
 
