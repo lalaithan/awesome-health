@@ -8,17 +8,13 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 
 ## Contents
 
-- [Awesome Health ![Awesome](https://awesome.re)](#awesome-health-awesomehttpsawesomere)
-  - [A curated list of health resources](#a-curated-list-of-health-resources)
-  - [Contents](#contents)
-    - [Anatomy](#anatomy)
-      - [Understanding of Human Function](#understanding-of-human-function)
-    - [Food & Nutrition](#food--nutrition)
-    - [Exercise](#exercise)
-    - [Mental Health](#mental-health)
-    - [Not Feeling Well](#not-feeling-well)
-    - [Specific Diets](#specific-diets)
-    - [Health Organizations](#health-organizations)
+- [Anatomy](#anatomy)
+- [Food & Nutrition](#food--nutrition)
+- [Exercise](#exercise)
+- [Mental Health](#mental-health)
+- [Not Feeling Well](#not-feeling-well)
+- [Specific Diets](#specific-diets)
+- [Health Organizations](#health-organizations)
   
 ### Anatomy
 
