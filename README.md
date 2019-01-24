@@ -8,21 +8,17 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 
 ## Contents
 
-- [Awesome Health ![Awesome](https://awesome.re)](#awesome-health-awesomehttpsawesomere)
-  - [A curated list of health resources](#a-curated-list-of-health-resources)
-  - [Contents](#contents)
-    - [Anatomy](#anatomy)
-      - [Understanding of Human Function](#understanding-of-human-function)
-    - [Food & Nutrition](#food--nutrition)
-    - [Exercise](#exercise)
-    - [Mental Health](#mental-health)
-    - [Not Feeling Well](#not-feeling-well)
-    - [Specific Diets](#specific-diets)
-    - [Health Organizations](#health-organizations)
-  
+- [Anatomy](#anatomy)
+- [Food & Nutrition](#food--nutrition)
+- [Exercise](#exercise)
+- [Mental Health](#mental-health)
+- [Not Feeling Well](#not-feeling-well)
+- [Specific Diets](#specific-diets)
+- [Health Organizations](#health-organizations)
+
 ### Anatomy
 
-#### Understanding of Human Function
+Understanding of Human Function
 
 - [ZygoteBody](http://zygotebody.com/) - ZygoteBody, formerly Google Body, is a web application that renders manipulable 3D anatomical models of the human body.
 - [BioDigital Human](https://human.biodigital.com/index.html) - Sign-in required. An interactive, 3D platform that enables individuals and businesses to explore and visualize health information.
@@ -66,3 +62,5 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 - [US National Library of Medicine](http://www.nlm.nih.gov/) - The National Library of Medicine, on the campus of the National Institutes of Health in the USA, is the world’s largest biomedical library with a vast print collection and produces electronic information resources on a wide range of topics. Also supports and conducts research, development, and training in biomedical informatics and health information technology. In addition, the Library coordinates a 6,500-member National Network of Libraries of Medicine that promotes and provides access to health information in communities across the United States.
 - [American Cancer Society](http://www.cancer.org/) - A US community-based voluntary health organization dedicated to eliminating cancer as a major health problem. Website offers info on cancer, prevention, treatment, patient support, research, and ways to get involved.
 - [American Diabetes Association](http://www.diabetes.org/) - A US-based nonprofit that seeks to educate the public about diabetes and to help those affected by it by funding research to manage, cure and prevent diabetes.
+- [Crohn's & Colitis Foundation](http://www.crohnscolitisfoundation.org/) - Nonprofit supporting the research of Crohn's & colitis treatments and cures.
+- [Global partners of Crohn's & Colitis Foundation](http://www.crohnscolitisfoundation.org/about/partners/) - A list of global partners of inflammatory bowel disease-related organizations around the world.
