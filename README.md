@@ -15,11 +15,7 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 - [Not Feeling Well](#not-feeling-well)
 - [Specific Diets](#specific-diets)
 - [Health Organizations](#health-organizations)
-<<<<<<< HEAD
 
-=======
-  
->>>>>>> 3d55adfd1d7011732de14570949b19b28d44336e
 ### Anatomy
 
 Understanding of Human Function
