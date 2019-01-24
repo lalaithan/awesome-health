@@ -15,7 +15,11 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 - [Not Feeling Well](#not-feeling-well)
 - [Specific Diets](#specific-diets)
 - [Health Organizations](#health-organizations)
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 3d55adfd1d7011732de14570949b19b28d44336e
 ### Anatomy
 
 Understanding of Human Function
@@ -55,6 +59,7 @@ Understanding of Human Function
 
 - [Diet Recommendtions for Liver Problems](http://www.nlm.nih.gov/medlineplus/ency/article/002441.htm) - An adjusted diet will help the liver function and protect it from working too hard.
 - [Dash Diet](https://www.kidney.org/atoz/content/Dash_Diet) - Dietary Approaches to Stop Hypertension diet information, tips, and recipes. The DASH diet is a recognized treatment for hypertension, heart disease, and kidney disease.
+- [Low FODMAP Diet](https://www.monashfodmap.com/ibs-central/i-have-ibs/starting-the-low-fodmap-diet/) - Monash University's guide to the low FODMAP diet for gastrointestinal relief.
 
 ### Health Organizations
 
@@ -62,5 +67,6 @@ Understanding of Human Function
 - [US National Library of Medicine](http://www.nlm.nih.gov/) - The National Library of Medicine, on the campus of the National Institutes of Health in the USA, is the world’s largest biomedical library with a vast print collection and produces electronic information resources on a wide range of topics. Also supports and conducts research, development, and training in biomedical informatics and health information technology. In addition, the Library coordinates a 6,500-member National Network of Libraries of Medicine that promotes and provides access to health information in communities across the United States.
 - [American Cancer Society](http://www.cancer.org/) - A US community-based voluntary health organization dedicated to eliminating cancer as a major health problem. Website offers info on cancer, prevention, treatment, patient support, research, and ways to get involved.
 - [American Diabetes Association](http://www.diabetes.org/) - A US-based nonprofit that seeks to educate the public about diabetes and to help those affected by it by funding research to manage, cure and prevent diabetes.
+- [WellCatholic](https://wellcatholic.com/) - A convenient healthcare directory of US Catholic healthcare providers.
 - [Crohn's & Colitis Foundation](http://www.crohnscolitisfoundation.org/) - Nonprofit supporting the research of Crohn's & colitis treatments and cures.
 - [Global partners of Crohn's & Colitis Foundation](http://www.crohnscolitisfoundation.org/about/partners/) - A list of global partners of inflammatory bowel disease-related organizations around the world.
