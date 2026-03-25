@@ -46,6 +46,7 @@ Understanding of Human Function
 - [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
 - [6 Tips for Curing Your Scatterbrain](https://www.wellbeing.com.au/mind-spirit/mind/focus-your-mind-and-cure-that-scatterbrain.html) - Article featured by Wellbeing magazine on ways to calm your mind so you can focus on a task.
 - [How a Dollar Store Notebook Helped My Adult ADD](https://chachingonashoestring.com/2014/03/06/how-a-dollar-store-notebook-helped-my-adult-add/) - Article by [Cha-Ching on a Shoestring](https://chachingonashoestring.com) blog on a simple lifehack to tackle your to-do list.
+- [DailyVox](https://getdailyvox.com) - Free AI voice diary for iPhone with automatic mood tracking via on-device sentiment analysis. Speak your thoughts, get insights into emotional patterns over time. No data collection. ([App Store](https://apps.apple.com/app/id6760454642))
 
 ### Not Feeling Well
 
