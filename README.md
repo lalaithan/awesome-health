@@ -30,6 +30,7 @@ Understanding of Human Function
 - [Choose MyPlate](http://www.choosemyplate.gov/) - MyPlate is the "new food pyramid" from the USDA to help you find a healthy eating style that meets your needs and build it throughout your lifetime.
 - [Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE) Calculator](https://www.sailrabbit.com/bmr/) - Developed with the goal of providing solid BMR/TDEE values for a wider range of body types and lifestyles.
 - [MyFitnessPal](https://www.myfitnesspal.com/) - Website & app for keeping track of the food you eat and the activity you do.
+- [Oneizar](https://oneizar.com) - A free macro calculator for fat loss, muscle gain, and body recomposition, with a food database, daily macro tracker, and AI-powered meal planning that builds meals around your macro targets.
 
 ### Exercise
 
