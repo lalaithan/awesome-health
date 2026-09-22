@@ -30,6 +30,7 @@ Understanding of Human Function
 - [Choose MyPlate](http://www.choosemyplate.gov/) - MyPlate is the "new food pyramid" from the USDA to help you find a healthy eating style that meets your needs and build it throughout your lifetime.
 - [Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE) Calculator](https://www.sailrabbit.com/bmr/) - Developed with the goal of providing solid BMR/TDEE values for a wider range of body types and lifestyles.
 - [MyFitnessPal](https://www.myfitnesspal.com/) - Website & app for keeping track of the food you eat and the activity you do.
+- [TidyCalcs](https://www.tidycalcs.com/) - Free BMI and calorie/TDEE calculators, plus mortgage, loan, and debt payoff tools. No signup required.
 
 ### Exercise
 
