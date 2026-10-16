@@ -29,6 +29,7 @@ Understanding of Human Function
 - [Harvard Nutrition Source](http://www.hsph.harvard.edu/nutritionsource/) - The Nutrition Source is a comprehensive nutrition information source, providing science-based guidance for healthy living. Based at the Harvard Dept. of Nutrition.
 - [Choose MyPlate](http://www.choosemyplate.gov/) - MyPlate is the "new food pyramid" from the USDA to help you find a healthy eating style that meets your needs and build it throughout your lifetime.
 - [Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE) Calculator](https://www.sailrabbit.com/bmr/) - Developed with the goal of providing solid BMR/TDEE values for a wider range of body types and lifestyles.
+- [Ampsu Adaptive TDEE Calculator](https://ampsu.eu/tools/adaptive-tdee-calculator) - Free calculator that estimates daily energy expenditure from logged calorie intake and weight change over several weeks; includes a worked example and sources.
 - [MyFitnessPal](https://www.myfitnesspal.com/) - Website & app for keeping track of the food you eat and the activity you do.
 
 ### Exercise
