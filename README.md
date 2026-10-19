@@ -20,7 +20,7 @@ A community-driven list of useful health resources. See CONTRIBUTING.md for cont
 
 Understanding of Human Function
 
-- [ZygoteBody](http://zygotebody.com/) - ZygoteBody, formerly Google Body, is a web application that renders manipulable 3D anatomical models of the human body.
+- [ZygoteBody](https://www.zygotebody.com/) - ZygoteBody, formerly Google Body, is a web application that renders manipulable 3D anatomical models of the human body.
 - [BioDigital Human](https://human.biodigital.com/index.html) - Sign-in required. An interactive, 3D platform that enables individuals and businesses to explore and visualize health information.
 
 ### Food & Nutrition
@@ -53,7 +53,7 @@ Understanding of Human Function
 
 ### Specific Diets
 
-- [Diet Recommendtions for Liver Problems](http://www.nlm.nih.gov/medlineplus/ency/article/002441.htm) - An adjusted diet will help the liver function and protect it from working too hard.
+- [Diet Recommendations for Liver Problems](http://www.nlm.nih.gov/medlineplus/ency/article/002441.htm) - An adjusted diet will help the liver function and protect it from working too hard.
 - [Dash Diet](https://www.kidney.org/atoz/content/Dash_Diet) - Dietary Approaches to Stop Hypertension diet information, tips, and recipes. The DASH diet is a recognized treatment for hypertension, heart disease, and kidney disease.
 - [Low FODMAP Diet](https://www.monashfodmap.com/ibs-central/i-have-ibs/starting-the-low-fodmap-diet/) - Monash University's guide to the low FODMAP diet for gastrointestinal relief.
 
