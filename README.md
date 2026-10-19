@@ -34,10 +34,11 @@ Understanding of Human Function
 ### Exercise
 
 - [DAREBEE](https://darebee.com/) - A free independent global fitness resource based on researched and tested info. Website includes exercise programs, individual workouts, challenges, running info, videos, themed weeks/events, and a community to stay accountable and motivated.
-- [100 Places](https://youtu.be/75nQy1ICSVc) - Video playlist demonstrating different places/objects to do pull-ups and dips.
+- [100 Places](https://youtu.be/75nQyI1ICSVc) - Video playlist demonstrating different places/objects to do pull-ups and dips.
 - [Common Mistakes in Yoga](https://www.yogabycandace.com/common-mistakes-in-yoga-poses/) - Series by [YogaByCandace blog](https://www.yogabycandace.com/) illustrating and explaining common mistakes in popular yoga poses.
 - [Mobility Myths](https://www.youtube.com/playlist?list=PL1rSl6Pd49IkoHoX5QCEJe0MFNhWZ6K7c) - Video playlist where Dr. Quinn Henoch discusses causes and corrections for common mobility misconceptions.
 - [Exercise Safety Tips for the Warm Weather](https://www.atipt.com/blog/exercise-safety-tips-for-the-warm-weather) - Article by ATI Physical Therapy going over safety tips to keep in mind when exercising in the heat, plus symptoms of heat illness.
+- [Army Fitness Test Calculator](https://www.armyfitnesstestcalculator.com/) - Free calculator that scores the Army Fitness Test using the Army's official scoring tables, plus AFT standards guides and related Army fitness calculators.
 
 ### Mental Health
 
