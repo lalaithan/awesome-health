@@ -38,6 +38,7 @@ Understanding of Human Function
 - [Common Mistakes in Yoga](https://www.yogabycandace.com/common-mistakes-in-yoga-poses/) - Series by [YogaByCandace blog](https://www.yogabycandace.com/) illustrating and explaining common mistakes in popular yoga poses.
 - [Mobility Myths](https://www.youtube.com/playlist?list=PL1rSl6Pd49IkoHoX5QCEJe0MFNhWZ6K7c) - Video playlist where Dr. Quinn Henoch discusses causes and corrections for common mobility misconceptions.
 - [Exercise Safety Tips for the Warm Weather](https://www.atipt.com/blog/exercise-safety-tips-for-the-warm-weather) - Article by ATI Physical Therapy going over safety tips to keep in mind when exercising in the heat, plus symptoms of heat illness.
+- - [Mile Pace Calculator](https://milepacecalculator.com/) - Free pace calculators for runners. Find your mile pace, treadmill pace, marathon pace, splits and finish times.
 
 ### Mental Health
 
